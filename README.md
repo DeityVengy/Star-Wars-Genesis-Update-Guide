@@ -1,6 +1,6 @@
 # Star Wars Genesis Update Guide
 
-Updating Star Wars Genesis is pretty similar to installing it for the first time. This guide assumes you followed my 3 folder method in your root drive as shown below:
+### Updating Star Wars Genesis is pretty similar to installing it for the first time. This guide assumes you followed my 3 folder method in your root drive as shown below:
 ![image](https://github.com/user-attachments/assets/bbbfdd6b-5930-42d1-9bcc-c44c7acf74d5)
 
 
@@ -15,5 +15,5 @@ Updating Star Wars Genesis is pretty similar to installing it for the first time
 8. Start the install. If you don't have Nexus Premium, it'll ask you to update a small amount of mods manually. If you have Nexus Premium, this should take a couple seconds to minutes.
 
 
-Once the install is finished, simply launch ModOrganizer.exe and launch the game as you normally would.
+### Once the install is finished, simply launch ModOrganizer.exe and launch the game as you normally would.
 
