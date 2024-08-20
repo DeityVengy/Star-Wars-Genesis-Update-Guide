@@ -8,7 +8,7 @@
 2. Run Wabbajack.exe from the **WABBAJACK** folder.
 3. Click the gear icon (settings) on the top left, then logon to Nexus Mods. Even if you're already logged in, log out and log back in. **Trust me**
 4. Go back to the Wabbajack Main Menu and select **Install From Disk**
-5. Check the overwrite box
+5. Check the overwrite box </br>
    ![image](https://github.com/user-attachments/assets/4f4192a8-c836-4bf6-bd86-2006f2b1d2a7)
 6. Match everything to this (remember the drive letter like K, C, etc should match yours, not mine):
    ![image](https://github.com/user-attachments/assets/78800b97-3041-460a-a389-871179ea2f32)
