@@ -14,6 +14,12 @@
    ![image](https://github.com/user-attachments/assets/78800b97-3041-460a-a389-871179ea2f32)
 8. Start the install. If you don't have Nexus Premium, it'll ask you to update a small amount of mods manually. If you have Nexus Premium, this should take a couple seconds to minutes.
 
-
 ### Once the install is finished, simply launch ModOrganizer.exe and launch the game as you normally would.
+
+# READ BELOW THIS OR YOU WILL BREAK SOMETHING
+### When you initially load your existing save, you're gonna get a popup like this saying multiple plugins are missing. This is NOT an issue with the install. </br>
+![image](https://github.com/user-attachments/assets/44b16f0d-4957-4491-9810-697c96849d92)
+### Simply select `No` for the first popup (asking if you like to search for the unidentified content), and then select `Yes` for the second popup (asking if you wanna continue loading) </br>
+### When you finally load in. Save your game. You will now no longer get that popup next time you load the game. </br>
+
 
